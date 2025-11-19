@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Як штучний інтелект змінює бізнес](README.md)
